@@ -1,4 +1,10 @@
 ### Hi there 👋
+🔭 I'm Sebastián VaRom, but all my friends call me "Chobach". 🤔
+
+⚡ I really love one piece...
+    I know it doesn't matter but is a fact about me. 😄
+    
+💬 I love all the tech stuff, and i wanna help u with ur college projects, if u need something please ask me. :grin:
 
 <!--
 **SVaRom/SVaRom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
