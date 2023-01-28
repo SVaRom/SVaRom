@@ -29,9 +29,9 @@
     
 **📫 Reach me at:**<br>
 
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-sebastian-varom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-varom/)](https://www.linkedin.com/in/SVaRom/)
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/SebastianVaRom?style=social)](https://twitter.com/SebastianVaRom)
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/SVaRom?label=SVaRom&style=social)](https://github.com/SVaRom)
+[![Linkedin: Sebastián VaRom](https://img.shields.io/badge/-SVaRom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-varom/)](https://www.linkedin.com/in/sebastian-varom/)
+[![Twitter: Sebastián VaRom](https://img.shields.io/twitter/follow/SebastianVaRom?style=social)](https://twitter.com/SebastianVaRom)
+[![GitHub: Sebastián VaRom](https://img.shields.io/github/followers/SVaRom?label=SVaRom&style=social)](https://github.com/SVaRom)
      
 </div>
 
