@@ -1,76 +1,166 @@
-<h1 align="center">Hello nerdo! 🤔</h1>
 
-I'm Sebastián VaRom — my friends call me **Chobach**.
+<div align="center">
 
-My background in testing and QA shapes how I approach software: reproduce the problem, follow the data, and check assumptions against what the system actually does.
+# Hello nerdo! 🤔
 
-## How I work
+### I'm Sebastián VaRom
 
-I enjoy investigating bugs that take more than a quick glance to understand.
+**Software Engineer | Backend & Full-Stack Development**
 
-- Use logs, network activity, and code to reconstruct a failing flow.
-- Trace behavior across the interface, application logic, models, and persistence.
-- Understand the context of a legacy system before changing it.
-- Share findings and explain the reasoning behind a fix.
+*I enjoy understanding how systems work, why they fail, and how to make them more reliable.*
 
-## Professional experience
+[![GitHub](https://img.shields.io/badge/GitHub-SVaRom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SVaRom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-varom/)
 
-- Integrating JWT-based single sign-on (SSO) across applications, including a dual-token strategy for SSO and internal authentication.
-- Building electronic signature flows and carrying shared behavior across frontends.
-- Working with asynchronous queues and PDF/Excel report generation.
-- Investigating authentication and data consistency issues, session context in background workers, and N+1 queries.
+</div>
 
-## What I'm working on
+---
 
-**Tcore** — my independent business and its own administrative platform. I'm working on its website and admin application with TypeScript, React, Next.js, PostgreSQL, and Prisma.
+## 👨‍💻 About me
 
-## Languages and tools
+I'm a software developer with a background in Quality Assurance and a strong interest in **backend engineering, system design, and problem-solving**.
+
+My experience in testing has shaped how I approach engineering: reproduce the problem, challenge assumptions, trace the data, and understand the system before changing it.
+
+I enjoy working on complex systems, investigating unexpected behavior, and designing solutions that balance maintainability, reliability, and practical constraints.
+
+For me, software engineering is not just about writing code. It's about understanding problems and making informed technical decisions.
+
+## 🧠 How I approach engineering
+
+- **Investigate before fixing.** Use logs, network activity, database queries, and source code to understand failures.
+- **Think across the system.** Trace behavior through interfaces, application logic, authentication, background jobs, and persistence.
+- **Understand before changing.** Evaluate legacy architecture, dependencies, and compatibility constraints.
+- **Consider failure scenarios.** Think about edge cases, performance, reliability, and long-term maintenance.
+- **Communicate decisions.** Share findings, explain trade-offs, and collaborate on solutions.
+
+## 💼 Engineering experience
+
+### 🔐 Authentication & Security
+
+- Integrated JWT-based Single Sign-On (SSO) across applications using a dual-token authentication strategy.
+- Worked with centralized authentication, Redis-backed session management, and session auditing.
+- Implemented electronic signature workflows supporting multiple signers across citizen-facing and administrative applications.
+
+### ⚙️ Backend & Data Processing
+
+- Built asynchronous PDF and Excel report generation using background queues.
+- Investigated database performance issues, including N+1 queries and inefficient data access patterns.
+- Worked with relational databases, complex SQL queries, and data consistency issues.
+- Improved document generation workflows to handle large content and pagination constraints.
+
+### ⚡ Real-Time Communication
+
+- Extended existing WebSocket-based notification functionality.
+- Implemented real-time communication in a Next.js application and migrated the solution to Server-Sent Events (SSE).
+- Worked with event-driven application behavior and client-server communication.
+
+### 🏗️ Maintenance & Modernization
+
+- Worked on PHP version upgrades, dependency compatibility, and legacy Laravel applications.
+- Investigated production incidents involving background workers, application services, and infrastructure.
+- Containerized applications using Docker and worked with Linux-based environments.
+- Customized rich-text editing experiences and contributed to technical documentation.
+
+## 🚀 What I'm building
+
+### T-CORE
+
+**Technology services & internal management software**
+
+[![Website](https://img.shields.io/badge/Website-tcore.tech-4A0E25?style=flat-square&logo=googlechrome&logoColor=white)](https://tcore.tech)
+
+I'm building the digital infrastructure for my independent technology services business.
+
+The project includes a public-facing website and an administrative platform designed to support service management, technician workflows, quotations, and business operations.
+
+**Tech stack:** TypeScript, React, Next.js, PostgreSQL, Prisma, Docker, and Cloudflare R2.
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
 
 <p>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" height="36" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" height="36" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
-  <a href="https://www.php.net/"><img alt="PHP" height="36" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
-  <a href="https://www.ruby-lang.org/en/"><img alt="Ruby" height="36" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 </p>
+
+### Frontend & Backend
 
 <p>
-  <a href="https://react.dev/"><img alt="React" height="36" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
-  <a href="https://laravel.com/"><img alt="Laravel" height="36" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" height="36" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" height="36" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails" title="Ruby on Rails"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
 </p>
 
-- **Languages:** [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [PHP](https://www.php.net/), Ruby, SQL
-- **Web:** [React](https://react.dev/), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
-- **Backend:** [Laravel](https://laravel.com/), Ruby on Rails
-- **Data:** [PostgreSQL](https://www.postgresql.org/), [Prisma](https://www.prisma.io/)
-- **Development and testing:** [Docker](https://www.docker.com/), Redis, PHPUnit, [Vitest](https://vitest.dev/)
-
-## Other tools I've used
-
-- **Mobile:** [React Native](https://reactnative.dev/), [Expo](https://expo.dev/)
-- **Data:** [Firebase](https://firebase.google.com/)
-- **Additional languages:** Java, C#, Python
+### Databases & Infrastructure
 
 <p>
-  <a href="https://dev.java/"><img alt="Java" height="36" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
-  <a href="https://www.python.org/"><img alt="Python" height="36" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-  <a href="https://firebase.google.com/"><img alt="Firebase" height="36" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
 </p>
 
-## Public projects
+### Development & Testing
 
-- [meetings-crud](https://github.com/SVaRom/meetings-crud) — A meeting management CRUD project with Laravel and React.
-- [LearnApp](https://github.com/SVaRom/LearnApp) — A React Native and Expo project with student and teacher screens, backed by Firebase.
+**Git · GitHub · Prisma · PHPUnit · Vitest · Selenium · REST APIs**
 
-## My stats
+### Additional experience
 
-![VaRom's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVaRom&count_private=true&show_icons=true&theme=onedark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SVaRom&layout=compact&theme=onedark)
+**React Native · Expo · Firebase · Java · C#**
 
-## Find me
+## 📂 Public Projects
 
-[![LinkedIn: Sebastián VaRom](https://img.shields.io/badge/-SVaRom-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-varom/)
-[![Twitter: Sebastián VaRom](https://img.shields.io/twitter/follow/SebastianVaRom?style=social)](https://twitter.com/SebastianVaRom)
-[![GitHub: Sebastián VaRom](https://img.shields.io/github/followers/SVaRom?label=SVaRom&style=social)](https://github.com/SVaRom)
+### [Meetings CRUD](https://github.com/SVaRom/meetings-crud)
 
+A meeting management application built with Laravel and React.
+
+### [LearnApp](https://github.com/SVaRom/LearnApp)
+
+A mobile application built with React Native, Expo, and Firebase, featuring student and teacher interfaces.
+
+## 📚 Currently Learning
+
+I'm continuously strengthening my software engineering foundations, focusing on:
+
+- Data structures and algorithms
+- Backend architecture and system design
+- Database internals and performance
+- Distributed systems and reliability
+- Technical communication and engineering trade-offs
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=SVaRom&show_icons=true&theme=onedark&hide_border=true" alt="Sebastián's GitHub statistics"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SVaRom&layout=compact&theme=onedark&hide_border=true" alt="Sebastián's most used languages"/>
+
+</div>
+
+> GitHub statistics reflect repository activity and do not represent the full scope of my professional experience.
+
+## 🤝 Let's Connect
+
+I'm interested in software engineering, backend development, system design, and meaningful technical challenges.
+
+- **GitHub:** [SVaRom](https://github.com/SVaRom)
+- **LinkedIn:** [Sebastián VaRom](https://www.linkedin.com/in/sebastian-varom/)
+- **X:** [SebastianVaRom](https://twitter.com/SebastianVaRom)
+
+---
+
+<div align="center">
+
+**Understand the problem. Design the solution. Validate the result.**
+
+</div>
